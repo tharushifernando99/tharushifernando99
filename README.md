@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Tharushi Fernando
 
-## I am undergraduate student in Information Technology seeking for knowledge gain and built up myself. I am intertested in Project Management, Mobile application development and Web application developement.
+## I am undergraduate student in Information Technology seeking for knowledge gain and built up myself. I am interested in Project Management, Mobile application development and Web application development.
   
 
 ### 🌱 I’m currently learning Mobile Application developement with Android Studio with Java. I hope to gain my knowledge and experince in this area with more frameworks, languages and other technologies.
